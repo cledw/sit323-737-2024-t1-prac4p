@@ -1,1 +1,1 @@
-The following repository contains both SIT323 task 4 pass and credit tasks. 
+The following repository contains both SIT323 task 4 pass and credit tasks. All code for said tasks is found in the server.js file and accompanying documentation has been submitted online on ontrack. 
